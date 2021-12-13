@@ -5,7 +5,7 @@
  * @date         5/12/2021
  * @authors
  *  - Deniz Berfin Taştan
- *  - Eren Uğurlu
+ *  - Eren Ugurlu
  *  - Furkan Cebar
  *  - Elif Saadet Tokuoğlu
  *  - Melih Tüfekçioğlu
